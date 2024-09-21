@@ -1,0 +1,10 @@
+13.4s 1 /opt/conda/lib/python3.7/site-packages/papermill/iorw.py:50: FutureWarning: pyarrow.HadoopFileSystem is deprecated as of 2.0.0, please use pyarrow.fs.HadoopFileSystem instead.
+13.4s 2 from pyarrow import HadoopFileSystem
+17.0s 3 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2567: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+17.0s 4 FutureWarning,
+17.0s 5 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+17.1s 6 [NbConvertApp] Writing 44604 bytes to __notebook__.ipynb
+19.5s 7 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2567: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+19.5s 8 FutureWarning,
+19.5s 9 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+20.1s 10 [NbConvertApp] Writing 327742 bytes to __results__.html
